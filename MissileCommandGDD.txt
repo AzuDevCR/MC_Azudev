@@ -1,0 +1,21 @@
+14 de Febrero de 2022
+Clon-MissileCommand-Azu
+
+-Se usará Unity para crear un clon del MissileCommand de CCE de 1983
+-Como a este y todos los futuros clones, se les implementará alguna funcionalidad que no estuciera presente en el juego original
+-Para este proyecto implementaré cada X cantidad de niveles un jefe final
+-El control principal del clon será el mouse para dirijir un punto de mira al cual se instanciarán los proyectiles que al destruirse crearán el sprite que elimine los proyectiles enemigos
+
+*Del original en una primera aproximación se rescata lo siguiente
+	-Cada misil enemigo otorga 25 puntos(inicialmente)
+	-La primera oleada consta de 12 misiles. Incrementándose en 3  a cada nueva oleada.
+	
+*Experiencia del jugador
+	-Ágil(Velocidad de reacción, preveer punto de colisión, puntaje(implementar BBDD para almacenar puntajes(Implementar perfiles de jugador)))
+	-Presión
+	
+*IDEAS
+	-Para el mapa, que es único, se usarán formas básicas acompañadas de materiales
+	-Si un misil impacta directamente nuestra plataforma de lanzamiento se pierde una vida
+	-Se tiene una ciudad de 6 edificios, si se pierden todos se pierde una vida y se reconstruyen(POSIBLE CAMBIO)
+	-Una posibilidad para después es implementar "Sims" que vayan reconstruyendo la ciudad con fragmentos de misiles y naves enemigas mientras les defendemos!!!
