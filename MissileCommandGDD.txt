@@ -20,4 +20,7 @@ Clon-MissileCommand-Azu
 	-Se tiene una ciudad de 6 edificios, si se pierden todos se pierde una vida y se reconstruyen(POSIBLE CAMBIO)
 	-Una posibilidad para después es implementar "Sims" que vayan reconstruyendo la ciudad con fragmentos de misiles y naves enemigas mientras les defendemos!!!
 	-Como planeo crear "Sims supervivientes post apocalípticos" creo que le debería dar énfasis a la parte de la ciudad...
+	-Posiblemente un "view-port de ciudad sería apropiado"
+	-Los "Sims" serán una suerte de IA que deberemos proteger mientras trabajan en reconstruir la ciudad tendrán un número de habitantes que morirán en los impactos enemigos o hasta podrían ser abducidos!!
+	-Si la ciudad no presenta daños podrían trabajar en crear Power-ups para la plataforma de disparo...
 	-Implementar powerups para la plataforma de disparo
